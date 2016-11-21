@@ -1,0 +1,8 @@
+[project]
+name = neros.kr
+
+[servers.production]
+name = Production
+enabled = yes
+default = yes
+target = ghpages+https://neogures/neros.kr?cname=neros.kr
